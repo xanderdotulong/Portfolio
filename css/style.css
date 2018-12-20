@@ -1,0 +1,14 @@
+body {
+	font-family: Helvetica;
+	background-color: #fff;
+}
+h1 {
+	color: #fff;
+	font-family: arial black;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+.Subtitle {
+	font-size: 30px;
+	font-weight: 700;
+}
